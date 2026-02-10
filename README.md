@@ -1,5 +1,7 @@
 # IBM Cloud VPC module
 
+:warning: This module is no longer maintained. Please use [terraform-ibm-landing-zone-vpc](https://github.com/terraform-ibm-modules/terraform-ibm-landing-zone-vpc) for configuring an IBM Cloud Virtual Private Cloud (VPC).
+
 Provisions a VPC instance and related resources. The full list of resources provisioned is as follows:
 
 - VPC instance
